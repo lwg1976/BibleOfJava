@@ -1,6 +1,6 @@
 package chapter03;
 
-public class OperatorEx5 {
+public class OperatorEx05 {
 
 	/**
 	 * @param args
