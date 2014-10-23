@@ -1,6 +1,6 @@
 package chapter05;
 
-public class ArrayEx5 {
+public class ArrayEx05 {
 
 	public static void main(String[] arg) {
 		int[] number = new int[10];
