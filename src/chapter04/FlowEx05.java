@@ -1,6 +1,6 @@
 package chapter04;
 
-public class FlowEx5 {
+public class FlowEx05 {
 
 	public static void main(String[] args) {
 		int score = 82;

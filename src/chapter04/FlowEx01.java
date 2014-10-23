@@ -1,6 +1,6 @@
 package chapter04;
 
-public class FlowEx1 {
+public class FlowEx01 {
 
 	public static void main(String[] args) {
 		int visitCount = 0;

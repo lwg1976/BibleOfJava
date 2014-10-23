@@ -1,6 +1,6 @@
 package chapter04;
 
-public class FlowEx7 {
+public class FlowEx07 {
 
 	public static void main(String[] args) {
 		char ch = (char)(Math.random() * 4 + 'A');

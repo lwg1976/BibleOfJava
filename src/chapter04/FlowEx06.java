@@ -1,6 +1,6 @@
 package chapter04;
 
-public class FlowEx6 {
+public class FlowEx06 {
 
 	public static void main(String[] args) {
 		int score = (int)(Math.random() * 10) + 1;
